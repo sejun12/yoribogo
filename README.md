@@ -57,12 +57,12 @@
 - POSTMAN
 - Lombok
 - Kakao OAuth
-- Cool SMS api 
+- JAVA SMTP  - 구글 메일 활용
 
  ## 📌 프로젝트에서 맡은 역할 
-- 프로젝트 팀장, 서비스 기획 및 전반적인 구성, 엔티티 설계
-- 퍼블리싱 업무 : 펀딩페이지, 관리자페이지
-- 백엔드 업무 : 메인페이지, 봉사페이지, 후원페이지
+- 서비스 기획 및 전반적인 구성, 엔티티 설계
+- 퍼블리싱 업무 : 메인페이지, 프로필 상세 페이지
+- 백엔드 업무 : 로그인,회원가입,회원 프로필 상세 페이지,pw찾기,카카오 연동
 - AWS 서버 배포 <a href="http://www.simbongsa.site/main/">simbongsa</a>
 
 ### 퍼블리싱 작업(회원가입/로그인) - <a href="https://github.com/code-hyun/simbongsa/wiki/맡은기능-소개(퍼블리싱)" > 상세보기 - WIKI 이동</a>
